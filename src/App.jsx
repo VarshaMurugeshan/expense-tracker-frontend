@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import TransactionForm from "./components/TransactionForm";
-import Transactionlist from "./components/transactionlist";
+import Transactionlist from "./components/Transactionlist";
 import axios from "axios";
 
 const App=() =>{
